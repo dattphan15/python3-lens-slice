@@ -1,2 +1,5 @@
 # python3-lens-slice
-Codecademy - Python 3 - Lists - Project 6
+
+A pizza menu constructed by using python list methods to .count(), len(), .sort(), save into indexes, pop(), insert().
+
+![pizza](images/lens-slice.png)
