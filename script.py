@@ -21,3 +21,6 @@ print(pizza_and_prices)
 
 pizza_and_prices.sort()
 print(pizza_and_prices)
+
+cheapest_pizza = pizza_and_prices[0]
+print(cheapest_pizza)
